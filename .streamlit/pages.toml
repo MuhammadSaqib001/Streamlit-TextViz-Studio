@@ -1,0 +1,14 @@
+[[pages]]
+path = "main.py"
+name = "TextViz Studio Homepage"
+icon = "🏠"
+
+[[pages]]
+path = "./apps/keywords/keywords.py"
+name = "Text2Keywords"
+icon = "🏷️"
+
+[[pages]]
+path = "./apps/topic_modelling/topic_modelling.py"
+name = "Text2Topics"
+icon = "🗂️"

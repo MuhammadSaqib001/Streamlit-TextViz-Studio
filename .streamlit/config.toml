@@ -1,0 +1,13 @@
+[theme]
+base="dark"
+primaryColor = '#51DBF9'
+backgroundColor = '#0E1117'
+secondaryBackgroundColor = '#262730'
+textColor = '#FFFFFF'
+font = "sans serif"
+[server]
+scriptHealthCheckEnabled = true
+[runner]
+fastReruns = false
+[client]
+showErrorDetails = false
