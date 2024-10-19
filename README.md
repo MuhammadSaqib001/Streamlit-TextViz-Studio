@@ -44,7 +44,7 @@ Dive deeper into your textual data with advanced topic modeling. Text2Topics uti
 
 ## Contribution and Collaboration
 
-I'm actively seeking opportunities to collaborate on groundbreaking research projects, especially those involving NLP. I believe that collaboration is the key to unlocking novel solutions and driving progress in the field of AI. I actively write stuff at Medium . Feel to checkout articles on my [Medium Profile]([https://medium.com/@saqibbuzdar](https://medium.com/@msaqib-genai).
+I'm actively seeking opportunities to collaborate on groundbreaking research projects, especially those involving NLP. I believe that collaboration is the key to unlocking novel solutions and driving progress in the field of AI. I actively write stuff at Medium . Feel to checkout articles on my [Medium Profile](https://medium.com/@msaqib-genai)
 
 ## Contact Me !
 
