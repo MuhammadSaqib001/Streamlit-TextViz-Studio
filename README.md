@@ -2,17 +2,8 @@
 
 TextViz Studio is an all-in-one platform designed to simplify complex text analysis for social scientists and researchers. The platform streamlines existing data science tools into intuitive interfaces, eliminating the need for coding expertise and enabling users to uncover deep insights from textual data effortlessly.
 
-![TextViz Studio Logo](path/to/textviz.png) <!-- Replace with the correct path to the screenshot -->
+![TextViz Studio Logo](https://github.com/MuhammadSaqib001/TextViz-Studio/blob/main/textviz.png) <!-- Replace with the correct path to the screenshot -->
 
-## Table of Contents
-
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Application Tools](#application-tools)
-  - [Text2Keywords](#text2keywords-keyword--phrase-visualization)
-  - [Text2Topics](#text2topics-large-language-topic-modeling)
-- [Contributing](#contributing)
-- [Contact](#contact)
 
 ## Features
 
